@@ -1,1 +1,0 @@
-# mentorconnect-platform
